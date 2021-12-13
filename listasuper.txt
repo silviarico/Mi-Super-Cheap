@@ -1,9 +1,45 @@
+4-dia_limpiar 1.7k
+2-Carrefour_ limpiar +2K
+3-lidl_limpiar 62..
+
+
+el corte ingles 
+alcampo
+eroski
+
+
+
+
+Amazon fresh -compli
+6-eroski -
+5-alcampo-factinñe
+
+7-El corte inglés - posible
+8-froiz fact
+
+mierder
+
+condis
+
+
+BM - out
+
+
+10-Ahorramás - sin compra online - folleto
+6-Aldi - sin compra online - folleto
+
+
+
 1-Mercadona puta
-2-Carrefour x
-3-lidl
-4-dia x
-6-eroski
-5-alcampo
-6-Aldi
-7-El corte inglés
-8-froiz
+cheerio
+https://cheerio.js.org/#installation
+
+https://www.digitalocean.com/community/tutorials/how-to-scrape-a-website-using-node-js-and-puppeteer-es
+https://www.reddit.com/r/learnpython/comments/8fpwqx/python_request_javascript_stop_me_from/
+node.js
+https://docs.python-requests.org/projects/requests-html/en/latest/
+
+https://www.tutorialguruji.com/python/cannot-get-full-html-when-scraping-data-from-site-with-beautiful-soup/
+
+async
+https://github.com/kennethreitz/requests-html
